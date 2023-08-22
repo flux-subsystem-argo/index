@@ -2,15 +2,15 @@
   "candidates": [
     {
       "argocd": "v2.8.0",
-      "fsa": "v2.8.0-fl.15-main-aef83705",
+      "fsa": "v2.8.0-fl.15-main-aef83705"
     },
     {
       "argocd": "v2.7.11",
-      "fsa": "v2.7.11-fl.15-main-32b9702c",
+      "fsa": "v2.7.11-fl.15-main-32b9702c"
     },
     {
       "argocd": "v2.6.14",
-      "fsa": "v2.6.14-fl.15-main-e9a0660c",
+      "fsa": "v2.6.14-fl.15-main-e9a0660c"
     },
     {
       "argocd": "v2.5.22",
