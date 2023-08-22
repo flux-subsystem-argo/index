@@ -14,7 +14,7 @@
     },
     {
       "argocd": "v2.5.22",
-      "fsa": "v2.5.22-fl.12-main-0f9b4dbc",
+      "fsa": "v2.5.22-fl.12-main-0f9b4dbc"
     }
   ]
 }
