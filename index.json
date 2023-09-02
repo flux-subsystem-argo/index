@@ -1,6 +1,11 @@
 {
   "candidates": [
     {
+      "argocd": "v2.8.1-dev",
+      "fsa": "v2.8.1-fl.16-main-0a0a2f19",
+      "flux": "v2.0.1"
+    },
+    {
       "argocd": "v2.8.1",
       "fsa": "v2.8.1-fl.15-main-1072aa5e",
       "flux": "v2.0.1"
