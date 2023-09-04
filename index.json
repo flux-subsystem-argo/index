@@ -3,7 +3,7 @@
     {
       "flamingo": "v2.8.1-dev",
       "argocd": "v2.8.1",
-      "image": "v2.8.1-fl.20-main-4b9d66e7",
+      "image": "v2.8.1-fl.21-main-7242d1b4",
       "flux": "v2.1.0"
     },
     {
