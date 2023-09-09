@@ -1,5 +1,5 @@
 {
-  "candidates": [        
+  "candidates": [
     {
       "flamingo": "v2.8.3-dev",
       "argocd": "v2.8.3",
@@ -37,10 +37,16 @@
       "flux": "v2.0.1"
     },
     {
+      "flamingo": "v2.6.15-dev",
+      "argocd": "v2.6.15",
+      "image": "v2.6.15-fl.15-main-10ea1bf3",
+      "flux": "v2.0.1"
+    },
+    {
       "flamingo": "v2.6.14",
       "argocd": "v2.6.14",
       "image": "v2.6.14-fl.15-main-e9a0660c",
-      "flux": "v0.41.2"
+      "flux": "v2.0.1"
     },
     {
       "flamingo": "v2.5.22",
