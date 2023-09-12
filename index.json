@@ -1,7 +1,7 @@
 {
   "candidates": [
     {
-      "flamingo": "v2.8.3-dev",
+      "flamingo": "v2.8.3",
       "argocd": "v2.8.3",
       "image": "v2.8.3-fl.21-main-3155e06d",
       "flux": "v2.1.0"
