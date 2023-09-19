@@ -4,7 +4,7 @@
       "flamingo": "v2.8.4-dev",
       "argocd": "v2.8.4",
       "image": "v2.8.4-fl.21-main-6c72e98c",
-      "flux": "v2.1.0"
+      "flux": "v2.1.1"
     },
     {
       "flamingo": "v2.8.3",
